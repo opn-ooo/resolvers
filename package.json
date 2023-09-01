@@ -189,7 +189,7 @@
     "newtype-ts": "^0.3.5",
     "nope-validator": "^1.0.0",
     "npm-run-all": "^4.1.5",
-    "prettier": "^2.5.1",
+    "prettier": "^3.0.3",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-hook-form": "7.24.2",
